@@ -1,3 +1,5 @@
+# Note, refer to lesson 6.12 for improvements in code to address error in blank inputs.
+
 while True:
     line = input('> ')
     if line[0] == '#':
